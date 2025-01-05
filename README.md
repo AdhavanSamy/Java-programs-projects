@@ -1,6 +1,6 @@
 # Java Programs and Project
 
-Welcome to my backt-End java programs and project repository! This repository contains a collection of projects showcasing my skills in Java and j2EE. Each project is designed to demonstrate various aspects ofback-end, ranging from basic concepts to more advanced techniques.
+Welcome to my back-End java programs and project repository! This repository contains a collection of projects showcasing my skills in Java and j2EE. Each project is designed to demonstrate various aspects ofback-end, ranging from basic concepts to more advanced techniques.
 
 ## Projects List
 
